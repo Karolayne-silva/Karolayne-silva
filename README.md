@@ -1,12 +1,13 @@
-## Oii, eu sou a Karol 👋
+<h2 align="center">Oii, eu sou a Karol 👋</h2>
 
 - ✨ Estudando Java
-- 👩🏽‍💻 estou no segundo periodo da faculdade de ADS 
+- 👩🏽‍💻 estou no segundo periodo da faculdade de ADS
+- 🎬 curiosidade sobre mim: <strong>Adoro</strong> filmes de Zumbi
 
 
 
 
-## Linguagens e ferramentas
+## Linguagens e ferramentas que eu uso
 
 <div> 
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
