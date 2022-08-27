@@ -4,18 +4,7 @@
 - 👩🏽‍💻 estou no segundo periodo da faculdade de ADS 
 
 
-###
 
-<a href="https://www.linkedin.com/in/karolayne-silva-a0a49a1a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 	 <a href = "mailto:karolaynessantoscontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  
-##
-<div align="center">
-  <a href="https://github.com/Karolayne-silva">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Karolayne-silva&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karolayne-silva&layout=compact&langs_count=7&theme=ocean_dark"/>
-</div>
 
 ## Linguagens e ferramentas
 
@@ -27,3 +16,17 @@
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
  
 </div>
+  
+<br>
+
+<div align="center">
+  <a href="https://github.com/Karolayne-silva">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Karolayne-silva&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karolayne-silva&layout=compact&langs_count=7&theme=ocean_dark"/>
+</div>
+
+### Contatos
+    
+<a href="https://www.linkedin.com/in/karolayne-silva-a0a49a1a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:karolaynessantoscontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
