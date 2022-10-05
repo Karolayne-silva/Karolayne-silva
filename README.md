@@ -1,6 +1,5 @@
 <h2 align="center">Oii, eu sou a Karol 👋</h2>
 
-- ✨ Estudando Java
 - 👩🏽‍💻 estou no segundo periodo da faculdade de ADS
 - 🎬 curiosidade sobre mim: <strong>Adoro</strong> filmes de Zumbi
 
