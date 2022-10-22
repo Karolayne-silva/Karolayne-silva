@@ -1,7 +1,10 @@
 <h2 align="center">Oii, eu sou a Karol 👋</h2>
 
-- 👩🏽‍💻 estou no segundo periodo da faculdade de ADS
-- 🎬 curiosidade sobre mim: <strong>Adoro</strong> filmes de Zumbi
+👩🏽‍💻 Estou no segundo periodo da faculdade de ADS
+
+📚 Bolsista do Embarque Digital
+
+🎬 Curiosidade sobre mim: <strong>Adoro</strong> filmes de Zumbi
 
 
 
