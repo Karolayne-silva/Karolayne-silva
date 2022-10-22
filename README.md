@@ -2,7 +2,7 @@
 
 👩🏽‍💻 Estou no segundo periodo da faculdade de ADS
 
-📚 Bolsista do Embarque Digital
+🎒 Bolsista do Embarque Digital
 
 🎬 Curiosidade sobre mim: <strong>Adoro</strong> filmes de Zumbi
 
