@@ -1,8 +1,11 @@
 <h2 align="center">Oii, eu sou a Karol 👋</h2>
 
 👩🏽‍💻 Faculdade de Análise e Desenvolvimento de Sistemas
+
 🎒 Bolsista do Embarque Digital
+
 🎨 Tenho 21 anos
+
 🗺️ Recife/PE
 
 
