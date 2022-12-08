@@ -1,10 +1,11 @@
 <h2 align="center">Oii, eu sou a Karol 👋</h2>
 
-👩🏽‍💻 Estou no segundo periodo da faculdade de ADS
+👩🏽‍💻 Faculdade de Análise e Desenvolvimento de sistemas
 
 🎒 Bolsista do Embarque Digital
 
-🎬 Curiosidade sobre mim: <strong>Adoro</strong> filmes de Zumbi
+- tenho 21 anos
+- Recife/PE
 
 
 
