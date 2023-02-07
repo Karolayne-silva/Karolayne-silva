@@ -2,8 +2,6 @@
 
 👩🏽‍💻 Faculdade de Análise e Desenvolvimento de Sistemas
 
-🎒 Bolsista do Embarque Digital
-
 🎨 Tenho 21 anos
 
 🗺️ Recife/PE
