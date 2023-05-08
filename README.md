@@ -2,7 +2,7 @@
 
 👩🏽‍💻 Faculdade de Análise e Desenvolvimento de Sistemas
 
-🎨 Tenho 21 anos
+🎨 Tenho 22 anos
 
 🗺️ Recife/PE
 
