@@ -1,8 +1,8 @@
 <h2 align="center">Oii, eu sou a Karol 👋</h2>
 
-👩🏽‍💻 Faculdade de Análise e Desenvolvimento de Sistemas
+👩🏽‍💻 Formada em Análise e Desenvolvimento de Sistemas
 
-🎨 Tenho 22 anos
+🎨 Tenho 23 anos
 
 🗺️ Recife/PE
 
